@@ -1,5 +1,6 @@
-package database;
+package database.service;
 
+import database.Database;
 import database.service.Service;
 import prefs.Prefs;
 

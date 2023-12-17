@@ -1,5 +1,6 @@
-package database;
+package database.service;
 
+import database.Database;
 import database.classesForQueries.LongestProject;
 import database.classesForQueries.MaxProjectCountClient;
 import database.classesForQueries.PrintProjectPrices;
